@@ -15,6 +15,19 @@
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+## Preface
+
+*A note on notation:*
+What follows treats politics, engineering, and theology as optimization problems. Symbols are not decoration—they are the argument. If that feels like heresy, good: heresy is often just low-latency truth.
+
+> *Efficient data pipelines* $y(t\mid x)$           
+> *With encoded stochastic terms* $ + \epsilon$      
+> *Enable the sort of heresy that* $z \to 3$      
+> *Autocracies dismiss as "fake"*       
+> *Protecting civilizians by latency $\to \infty$*                 
+> -Ilya Zosima
+
 # G
 ## Commentary: The Theology of Optimization & The Phase V Fallacy
 
