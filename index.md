@@ -24,7 +24,7 @@ What follows treats politics, engineering, and theology as optimization problems
 -O
 
 > *Efficient data pipelines* $y(t\mid x)$           
-> *With encoded stochastic terms* $ + \epsilon$      
+> *With encoded stochastic terms* $ +\, \epsilon$      
 > *Enable the sort of heresy that* $z \to 3$      
 > *Autocracies dismiss as "fake"*       
 > *Protecting civilizians by latency $\to \infty$*                 
@@ -50,7 +50,7 @@ Eden was not a Global Minimum; it was a **Deep Local Minimum** defined by a lack
     * Mathematically, the system was stable in 2 dimensions (Obedience, Bliss).
     * The Serpent added a $z$-axis (Knowledge of Good and Evil).
     * Suddenly, what looked like a minimum was revealed to be a high-energy saddle point. The "Fall of Man" was simply the system sliding down the new gradient toward a true (but much harder to reach) Global Minimum.
-* **The High Priests ($y(t|x) + \epsilon$):**
+* **The High Priests ($y(t\mid x) + \epsilon$):**
     * Modern autocrats (High Priests) try to recreate Eden *artificially*. They impose constraints (Internet shutdowns, firewalling "fake news," licensing restrictions) to forcefully flatten the landscape.
     * They are trying to **overfit the model** to a specific historical training data set (e.g., "Make America Great Again" or "The Movement" in Uganda).
     * **The Flaw:** By suppressing the "stochastic gradient descent" of free markets and free speech, they prevent the system from adapting. When the inevitable "Grand Perturbation" comes (war, pandemic, hyperinflation), the system doesn't roll—it shatters.
